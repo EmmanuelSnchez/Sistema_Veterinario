@@ -1,0 +1,7 @@
+#BlueJ class context
+#Thu Sep 17 23:24:20 CST 2026
+comment0.target=Medicamento
+comment1.params=nombre dosis
+comment1.target=Medicamento(java.lang.String, java.lang.String)
+comment2.target=void mostrarMedicamento()
+numComments=3

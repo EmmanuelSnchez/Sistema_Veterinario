@@ -1,0 +1,7 @@
+#BlueJ class context
+#Thu Sep 17 23:24:20 CST 2026
+comment0.target=Factura
+comment1.params=subtotal descuento
+comment1.target=Factura(double, double)
+comment2.target=void generarFactura()
+numComments=3

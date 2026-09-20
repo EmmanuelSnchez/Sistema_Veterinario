@@ -1,0 +1,7 @@
+#BlueJ class context
+#Thu Sep 17 23:24:20 CST 2026
+comment0.target=RegistroMedico
+comment1.params=codigo animal
+comment1.target=RegistroMedico(int, Animal)
+comment2.target=void mostrarRegistro()
+numComments=3

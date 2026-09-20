@@ -1,0 +1,8 @@
+#BlueJ class context
+#Thu Sep 17 23:24:20 CST 2026
+comment0.target=Membresia
+comment1.params=tipo descuento
+comment1.target=Membresia(java.lang.String, double)
+comment2.target=java.lang.String getTipo()
+comment3.target=double getDescuento()
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+#Thu Sep 17 23:24:20 CST 2026
+comment0.target=Tratamiento
+comment1.params=descripcion animal
+comment1.target=Tratamiento(java.lang.String, Animal)
+comment2.target=void aplicar()
+numComments=3

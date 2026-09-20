@@ -1,0 +1,10 @@
+#BlueJ class context
+#Thu Sep 17 23:24:20 CST 2026
+comment0.target=Propietario
+comment1.params=nombre telefono
+comment1.target=Propietario(java.lang.String, java.lang.String)
+comment2.params=animal
+comment2.target=void agregarMascota(Animal)
+comment3.target=java.lang.String getNombre()
+comment4.target=void mostrarMascotas()
+numComments=5

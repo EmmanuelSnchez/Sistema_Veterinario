@@ -1,0 +1,7 @@
+#BlueJ class context
+#Thu Sep 17 23:24:20 CST 2026
+comment0.target=Cita
+comment1.params=fecha tipo animal
+comment1.target=Cita(java.lang.String, java.lang.String, Animal)
+comment2.target=void confirmar()
+numComments=3

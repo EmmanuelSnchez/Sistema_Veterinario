@@ -1,0 +1,9 @@
+#BlueJ class context
+#Thu Sep 17 23:24:20 CST 2026
+comment0.target=Pago
+comment1.params=monto
+comment1.target=Pago(double)
+comment2.target=void efectivo()
+comment3.target=void tarjeta()
+comment4.target=void transferencia()
+numComments=5

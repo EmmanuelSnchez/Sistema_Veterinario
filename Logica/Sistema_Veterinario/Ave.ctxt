@@ -1,0 +1,7 @@
+#BlueJ class context
+#Thu Sep 17 23:24:20 CST 2026
+comment0.target=Ave
+comment1.params=nombre edad peso propietario
+comment1.target=Ave(java.lang.String, int, double, Propietario)
+comment2.target=void aplicarTratamiento()
+numComments=3
